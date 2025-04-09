@@ -27,7 +27,7 @@ Program ini adalah permainan Flappy Bird yang diimplementasikan dengan bahasa Ja
   - `score` : Skor pemain saat ini
   - `gameOver` : Indikator status permainan
 
--**Metode:**
+- **Metode:**
  - `placePip()` : Menghasilkan rintangan pipa baru
  - `move()` : Memperbarui posisi objek game
  - `paintComponent()` : Merender elemen game
